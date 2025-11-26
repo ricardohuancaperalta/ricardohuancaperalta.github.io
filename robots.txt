@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ricardohuancaperalta.github.io/sitemap.xml
